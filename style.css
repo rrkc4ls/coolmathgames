@@ -1,5 +1,12 @@
-body{
-  
+body {
+  background: #fff;
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 embed{
 height:100vh;
